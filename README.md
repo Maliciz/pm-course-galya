@@ -18,3 +18,5 @@
 * **[Project Brief (project-brief.md)](./project-brief.md)** — концепт, цільова аудиторія, опис продукту та основна функціональність.
 * **[Класифікація та оточення проєкту (project-classification.md)](./project-classification.md)** — класифікація за 6 ознаками, аналіз внутрішнього і зовнішнього середовища, обмеження, припущення та висновки.
 * **[Життєвий цикл проєкту (project-lifecycle.md)](./project-lifecycle.md)** — модель життєвого циклу, фази, ворота (phase gates), Mermaid-діаграма та обґрунтування вибору.
+
+* **[Налаштування проєкту в Jira (jira-setup.md)](./jira-setup.md)** — Jira-проєкт GB: епіки, беклог за MoSCoW, Sprint 1, команда та рефлексія.
