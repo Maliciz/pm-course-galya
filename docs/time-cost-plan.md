@@ -138,6 +138,16 @@
 | 4 | Story з Subtasks і Time Tracking | [`img/story-subtasks.png`](img/story-subtasks.png) |
 | 5 | Releases (v1.0-MVP, v1.1) | [`img/releases.png`](img/releases.png) |
 
+![Roadmap з залежностями між Epics](img/roadmap.png)
+
+![Velocity Chart](img/velocity.png)
+
+![Burndown Chart Sprint 1](img/burndown-s1.png)
+
+![Story з Subtasks і Time Tracking](img/story-subtasks.png)
+
+![Releases (v1.0-MVP, v1.1)](img/releases.png)
+
 ---
 
 ## 9. Рефлексія
