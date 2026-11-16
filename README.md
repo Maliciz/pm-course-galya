@@ -20,3 +20,5 @@
 * **[Життєвий цикл проєкту (project-lifecycle.md)](./project-lifecycle.md)** — модель життєвого циклу, фази, ворота (phase gates), Mermaid-діаграма та обґрунтування вибору.
 
 * **[Налаштування проєкту в Jira (jira-setup.md)](./jira-setup.md)** — Jira-проєкт GB: епіки, беклог за MoSCoW, Sprint 1, команда та рефлексія.
+* **[План часу та вартості проєкту (docs/time-cost-plan.md)](./docs/time-cost-plan.md)** — критичний ланцюжок, прогноз тривалості, бюджет, Earned Value за Sprint 1 та рефлексія.
+* **[Jira Roadmap (Timeline)](https://mksmballa.atlassian.net/jira/software/projects/GB/boards/3/timeline)** — план епіків, залежності та реліз `v1.0-MVP` у Jira.
