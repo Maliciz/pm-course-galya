@@ -5,10 +5,10 @@
 ## Склад команди та ролі
 
 * **Антонюк Петро** — Project Manager (Team Lead)
-* **Балла Максим** — Developer (Tech Lead)
-* **Михайло Дубравський** — Developer
+* **Балла Максим** — Frontend Developer (Tech Lead)
+* **Михайло Дубравський** — Backend Developer (API, Telegram)
 * **Репіна Дар'я** — Designer
-* **Денис Войтенко** — Analyst
+* **Денис Войтенко** — Analyst (QA)
 
 ---
 

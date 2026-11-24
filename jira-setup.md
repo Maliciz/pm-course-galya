@@ -55,8 +55,8 @@
 | Ім'я | Jira Username | Роль у проекті |
 |------|--------------|----------------|
 | Антонюк Петро | kn24-p.antoniuk@nubip.edu.ua | Project Manager (Team Lead) - Administrator |
-| Балла Максим | mksmballa@gmail.com | Developer (Tech Lead) - Administrator |
-| Михайло Дубравський | dumih00@gmail.com | Developer - Member |
+| Балла Максим | mksmballa@gmail.com | Frontend Developer (Tech Lead) - Administrator |
+| Михайло Дубравський | dumih00@gmail.com | Backend Developer (API, Telegram) - Member |
 | Репіна Дар'я | kn24-d.repina@nubip.edu.ua | Designer - Member |
 | Денис Войтенко | kn24-d.voitenko@nubip.edu.ua | Analyst - Member |
 | Andrii Hlazunov (викладач) | a-hlazunov@nubip.edu.ua | Administrator (перевірка) |
